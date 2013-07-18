@@ -6,6 +6,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jobrapido/jquery-mobile-min.git"
+    "url": "git://github.com/jobrapido/jquery-mobile-bower.git"
   }
 }
