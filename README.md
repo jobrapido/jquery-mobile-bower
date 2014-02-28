@@ -1,4 +1,4 @@
-jquery-mobile-min
+jquery-mobile-bower
 =================
 
 A ready to use version of jquery mobile
