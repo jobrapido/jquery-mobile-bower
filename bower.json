@@ -1,6 +1,6 @@
 {
   "name": "jquery-mobile-bower",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "dependencies": {
     "jquery": "~1.10.0"
   },
